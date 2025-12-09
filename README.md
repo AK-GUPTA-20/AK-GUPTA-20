@@ -10,28 +10,28 @@
 
 ## 💫 About Me
 
-🎓 **B.Tech CSE Student** passionate about building reliable and scalable backend systems  
-💻 I enjoy creating high-performance web applications, exploring system design concepts, and practicing DSA to strengthen problem-solving skills  
-🌱 Actively contributing to **open-source** and preparing for **Google Summer of Code (GSoC)**  
-🎯 **Career Goal:** Building robust, scalable backend systems for real-world applications
+ **B.Tech CSE Student** passionate about building reliable and scalable backend systems  
+  Enjoy creating high-performance web applications, exploring system design concepts, and practicing DSA to strengthen problem-solving skills  
+ Actively contributing to **open-source** and preparing for **Google Summer of Code (GSoC)**  
+**Career Goal:** Building robust, scalable backend systems for real-world applications
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Secure Online Voting System
+###  Secure Online Voting System
 - Built with **Python** featuring authentication-secured voting
 - use a logic of one vote for one 
 
-### 🚦 Smart Traffic Light Management System
+### Smart Traffic Light Management System
 - Optimizes traffic flow using **FCFS**, **Round Robin**, and **Priority Scheduling** algorithms
 - Real-time traffic optimization and congestion management
 
-### 📋 Real-Time Enquiry Management System
+###  Real-Time Enquiry Management System
 - **Full-stack** application with instant CRUD operations
 - Seamless data handling with smooth user experience
 
-### 🛒 Greencart E-commerce Platform
+###  Greencart E-commerce Platform
 - Vendor-based e-commerce solution
 - Multi-vendor management and product catalog system
 
@@ -39,11 +39,11 @@
 
 ## 🔭 Current Focus
 
-- 🌟 Contributing to **open-source projects**
-- 🔧 Building backend features for Enquiry System & Greencart
-- 📚 Learning advanced backend architecture and system design
-- ☁️ Exploring cloud platforms and deployment fundamentals
-- 🎓 Preparing for **Google Summer of Code (GSoC)**
+-  Contributing to **open-source projects**
+-  Building backend features for Enquiry System & Greencart
+-  Learning advanced backend architecture and system design
+-  Exploring cloud platforms and deployment fundamentals
+-  Preparing for **Google Summer of Code (GSoC)**
 
 ---
 
@@ -64,9 +64,6 @@ I'm looking to collaborate on:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -81,16 +78,6 @@ I'm looking to collaborate on:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💬 Ask Me About
-
-- Backend Development (Node.js, Express.js)
-- MERN Stack Architecture
-- Data Structures & Algorithms
-- Git & GitHub Workflows
-- System Design Fundamentals
 
 ---
 
