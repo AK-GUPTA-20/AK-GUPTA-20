@@ -91,28 +91,12 @@ I'm looking to collaborate on:
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=AK-GUPTA-20&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AK-GUPTA-20&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-GUPTA-20&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=AK-GUPTA-20&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AK-GUPTA-20&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## 🔝 Top Contributed Repositories
 
@@ -126,9 +110,9 @@ I'm looking to collaborate on:
 
 ## ⚡ Fun Facts
 
-- 🎮 Love strategy-based games and tactical thinking
-- 📚 Avid listener of Indian Mythology podcasts
-- 💡 Always curious about emerging technologies
+-  Love strategy-based games and tactical thinking
+-  Avid listener of Indian Mythology podcasts
+-  Always curious about emerging technologies
 
 ---
 
