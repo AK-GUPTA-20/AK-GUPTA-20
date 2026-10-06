@@ -4,7 +4,7 @@
 
 ### ✨ Welcome to my GitHub Profile ✨
 
-<img src="https://github.com/AK-GUPTA-20/AK-GUPTA-20/blob/main/banner.gif" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/AK-GUPTA-20/AK-GUPTA-20/main/banner.gif" width="100%" alt="Banner"/>
 
 </div>
 
@@ -12,38 +12,45 @@
 
  **B.Tech CSE Student** passionate about building reliable and scalable backend systems  
   Enjoy creating high-performance web applications, exploring system design concepts, and practicing DSA to strengthen problem-solving skills  
- Actively contributing to **open-source** and preparing for **Google Summer of Code (GSoC)**  
+ Running **Syntax Studio**, where I build modern websites and web applications for clients  
 **Career Goal:** Building robust, scalable backend systems for real-world applications
 
 ---
 
 ## 🚀 Featured Projects
 
-###  Secure Online Voting System
+### 🗳️ Secure Online Voting System
 - Built with **Python** featuring authentication-secured voting
-- use a logic of one vote for one 
+- Enforces a strict one-vote-per-voter logic
 
-### Smart Traffic Light Management System
+### 🚦 Smart Traffic Light Management System
 - Optimizes traffic flow using **FCFS**, **Round Robin**, and **Priority Scheduling** algorithms
 - Real-time traffic optimization and congestion management
 
-###  Real-Time Enquiry Management System
+### 📋 Real-Time Enquiry Management System
 - **Full-stack** application with instant CRUD operations
 - Seamless data handling with smooth user experience
 
-###  Greencart E-commerce Platform
+### 🛒 [Greencart E-commerce Platform](https://greencart-frontend-indol.vercel.app/)
 - Vendor-based e-commerce solution
 - Multi-vendor management and product catalog system
+
+### 👕 [Stitch Clothing](https://stitch-clothing.vercel.app/)
+- A modern clothing e-commerce website where users can browse products and explore different clothing collections
+- Provides a simple, responsive shopping experience with a clean and user-friendly interface
+
+### 💻 [Syntax Studio](https://syntax-studio-sigma.vercel.app/)
+- My web development business where I build modern, responsive websites and web applications for clients
+- Helps businesses establish a professional online presence through custom web solutions
 
 ---
 
 ## 🔭 Current Focus
 
--  Contributing to **open-source projects**
 -  Building backend features for Enquiry System & Greencart
+-  Growing Syntax Studio with new client projects
 -  Learning advanced backend architecture and system design
 -  Exploring cloud platforms and deployment fundamentals
--  Preparing for **Google Summer of Code (GSoC)**
 
 ---
 
@@ -51,10 +58,10 @@
 
 I'm looking to collaborate on:
 - **MERN stack** projects
-- Backend-focused **open-source** initiatives
 - System design and architecture projects
+- Freelance **web development** work through [Syntax Studio](https://syntax-studio-sigma.vercel.app/)
 
-**Need help with:** GSoC preparation and scalable system design patterns
+**Need help with:** Scalable system design patterns
 
 ---
 
@@ -78,6 +85,7 @@ I'm looking to collaborate on:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -91,18 +99,25 @@ I'm looking to collaborate on:
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=AK-GUPTA-20&theme=radical&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AK-GUPTA-20&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AK-GUPTA-20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AK-GUPTA-20&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
-
-## 🔝 Top Contributed Repositories
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=AK-GUPTA-20&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+<img src="https://ghchart.rshah.org/4CAF50/AK-GUPTA-20" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
 
